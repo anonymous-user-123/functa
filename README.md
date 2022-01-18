@@ -12,7 +12,7 @@ Course of optimization for imputation of voxel from partial observation.
 ### From back
 Partial observation        |  Imputation
 :-------------------------:|:-------------------------:
-![](./voxel-imputation-back.png)  |  ![](./figures/voxel-imputation-front-from-back.gif)
+![](./figures/voxel-imputation-back.png)  |  ![](./figures/voxel-imputation-front-from-back.gif)
 
 ![]
 ![](./figures/voxel-imputation-front-from-back.gif)
