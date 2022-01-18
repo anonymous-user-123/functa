@@ -14,15 +14,39 @@ Partial observation        |  Imputation
 :-------------------------:|:-------------------------:
 ![](./figures/voxel-imputation-back.png)  |  ![](./figures/voxel-imputation-front-from-back.gif)
 
-![]
-![](./figures/voxel-imputation-front-from-back.gif)
-
 ### From front
-![](./figures/voxel-imputation-back-from-front.gif)
+Partial observation        |  Imputation
+:-------------------------:|:-------------------------:
+![](./figures/voxel-imputation-front.png)  |  ![](./figures/voxel-imputation-back-from-front.gif)
 
 ### From left
-![](./figures/voxel-imputation-right-from-left.gif)
+Partial observation        |  Imputation
+:-------------------------:|:-------------------------:
+![](./figures/voxel-imputation-left.png)  |  ![](./figures/voxel-imputation-right-from-left.gif)
 
 ### From lidar scan
-![](./figures/voxel-imputation-lidar-x.gif)
+Partial observation        |  Imputation
+:-------------------------:|:-------------------------:
+![](./figures/voxel-imputation-lidar-x.png)  |  ![](./figures/voxel-imputation-lidar-x.gif)
+
+
+## Figure 10
+Uncurated samples from flow trained on 512-dim modulations of SRN-cars.
+![](./figures/car-flow-samples-512-gif.gif)
+
+## Figure 11
+Latent interpolation between two car scenes with moving pose.
+![](./figures/car-flow-latent-interpolation-512-gif.gif)
+
+## Figure 12
+Novel view synthesis from occluded view.
+Occluded view        |  Ground truth       |MAP                  |Maximum likelihood
+:-------------------:|:-------------------:|:-------------------:|:-------------------:
+![](./figures/novel-view-synthesis-car-masked.png) | ![](./figures/novel-view-synthesis-car-target.gif) | ![](./figures/novel-view-synthesis-car-mask-gif.gif)| ![](./figures/novel-view-synthesis-car-mask-no-prior-gif.gif)
+
+
+## Figure 13
+Uncurated samples from flow trained on 256-dim modulations on ERA-5 temperature data.
+![](./figures/era5-flow-samples-256-gif.gif)
+
 
