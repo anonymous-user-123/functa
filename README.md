@@ -10,23 +10,23 @@ Meta-learned initialization + 3 gradient steps and target for test scene.
 Course of optimization for imputation of voxel from partial observation.
 
 ### From back
-Partial observation        |  Imputation
-:-------------------------:|:-------------------------:
+Partial observation    |  Imputation
+:---------------------:|:---------------------:
 ![](./figures/voxel-imputation-back.png)  |  ![](./figures/voxel-imputation-front-from-back.gif)
 
 ### From front
-Partial observation        |  Imputation
-:-------------------------:|:-------------------------:
+Partial observation    |  Imputation
+:---------------------:|:---------------------:
 ![](./figures/voxel-imputation-front.png)  |  ![](./figures/voxel-imputation-back-from-front.gif)
 
 ### From left
-Partial observation        |  Imputation
-:-------------------------:|:-------------------------:
+Partial observation    |  Imputation
+:---------------------:|:---------------------:
 ![](./figures/voxel-imputation-left.png)  |  ![](./figures/voxel-imputation-right-from-left.gif)
 
 ### From lidar scan
-Partial observation        |  Imputation
-:-------------------------:|:-------------------------:
+Partial observation    |  Imputation
+:---------------------:|:---------------------:
 ![](./figures/voxel-imputation-lidar-x.png)  |  ![](./figures/voxel-imputation-lidar-x.gif)
 
 
