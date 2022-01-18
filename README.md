@@ -32,10 +32,12 @@ Partial observation        |  Imputation
 
 ## Figure 10
 Uncurated samples from flow trained on 512-dim modulations of SRN-cars.
+
 ![](./figures/car-flow-samples-512-gif.gif)
 
 ## Figure 11
 Latent interpolation between two car scenes with moving pose.
+
 ![](./figures/car-flow-latent-interpolation-512-gif.gif)
 
 ## Figure 12
