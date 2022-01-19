@@ -3,7 +3,7 @@
 This README contains figures for the above paper.
 
 ## Figure 4
-Meta-learned initialization + 3 gradient steps and target for test scene.
+Meta-learned initialization + 4 gradient steps and target for test scene.
 ![](./figures/meta-learning-visualization-4-step-scene-gif.gif)
 
 ## Figure 8
@@ -42,7 +42,7 @@ Latent interpolation between two car scenes with moving pose.
 
 ## Figure 12
 Novel view synthesis from occluded view.
-Occluded view        |  Ground truth       |MAP                  |Maximum likelihood
+Occluded view        |  Ground truth       |Inferred             | No prior
 :-------------------:|:-------------------:|:-------------------:|:-------------------:
 ![](./figures/novel-view-synthesis-car-masked.png) | ![](./figures/novel-view-synthesis-car-target.gif) | ![](./figures/novel-view-synthesis-car-mask-gif.gif)| ![](./figures/novel-view-synthesis-car-mask-no-prior-gif.gif)
 
