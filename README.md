@@ -56,26 +56,17 @@ Additional voxel imputation results.
 Partial observation    |  Imputation
 :---------------------:|:---------------------:
 ![](./figures/chair2.png)  |  ![](./figures/chair2-imputation-gif.gif)
-
-:---------------------:|:---------------------:
 ![](./figures/chair3.png)  |  ![](./figures/chair3-imputation-gif.gif)
-
-:---------------------:|:---------------------:
 ![](./figures/chair4.png)  |  ![](./figures/chair4-imputation-gif.gif)
-
-:---------------------:|:---------------------:
 ![](./figures/chair5.png)  |  ![](./figures/chair5-imputation-gif.gif)
 
 ## Figure 
 Additional novel view synthesis results.
 Occluded view        |  Ground truth       |Inferred             | No prior
 :-------------------:|:-------------------:|:-------------------:|:-------------------:
-![](./figures/car3-masked.png) | ![](./figures/car3-target.gif) | ![](./figures/car3-inferred-gif.gif)| ![](./figures/car3-no-prior-gif.gif)
-:-------------------:|:-------------------:|:-------------------:|:-------------------:
-![](./figures/car4-masked.png) | ![](./figures/car4-target.gif) | ![](./figures/car4-inferred-gif.gif)| ![](./figures/car4-no-prior-gif.gif)
-:-------------------:|:-------------------:|:-------------------:|:-------------------:
-![](./figures/car5-masked.png) | ![](./figures/car5-target.gif) | ![](./figures/car5-inferred-gif.gif)| ![](./figures/car5-no-prior-gif.gif)
-:-------------------:|:-------------------:|:-------------------:|:-------------------:
-![](./figures/car6-masked.png) | ![](./figures/car6-target.gif) | ![](./figures/car6-inferred-gif.gif)| ![](./figures/car6-no-prior-gif.gif)
+![](./figures/car3-masked.png) | ![](./figures/car3-target-gif.gif) | ![](./figures/car3-inferred-gif.gif)| ![](./figures/car3-no-prior-gif.gif)
+![](./figures/car4-masked.png) | ![](./figures/car4-target-gif.gif) | ![](./figures/car4-inferred-gif.gif)| ![](./figures/car4-no-prior-gif.gif)
+![](./figures/car5-masked.png) | ![](./figures/car5-target-gif.gif) | ![](./figures/car5-inferred-gif.gif)| ![](./figures/car5-no-prior-gif.gif)
+![](./figures/car6-masked.png) | ![](./figures/car6-target-gif.gif) | ![](./figures/car6-inferred-gif.gif)| ![](./figures/car6-no-prior-gif.gif)
 
 
