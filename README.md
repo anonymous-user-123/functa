@@ -6,7 +6,7 @@ This README contains figures for the above paper.
 Meta-learned initialization + 4 gradient steps and target for test scene.
 ![](./figures/meta-learning-visualization-4-step-scene-gif.gif)
 
-## Figure 8
+## Figure 7
 Course of optimization for imputation of voxel from partial observation.
 
 ### From back
@@ -30,25 +30,52 @@ Partial observation    |  Imputation
 ![](./figures/voxel-imputation-lidar-x.png)  |  ![](./figures/voxel-imputation-lidar-x.gif)
 
 
-## Figure 10
+## Figure 9
 Uncurated samples from flow trained on 512-dim modulations of SRN-cars.
 
 ![](./figures/car-flow-samples-512-gif.gif)
 
-## Figure 11
+## Figure 10
 Latent interpolation between two car scenes with moving pose.
 
 ![](./figures/car-flow-latent-interpolation-512-gif.gif)
 
-## Figure 12
+## Figure 11
 Novel view synthesis from occluded view.
 Occluded view        |  Ground truth       |Inferred             | No prior
 :-------------------:|:-------------------:|:-------------------:|:-------------------:
 ![](./figures/novel-view-synthesis-car-masked.png) | ![](./figures/novel-view-synthesis-car-target.gif) | ![](./figures/novel-view-synthesis-car-mask-gif.gif)| ![](./figures/novel-view-synthesis-car-mask-no-prior-gif.gif)
 
 
-## Figure 13
+## Figure 12
 Uncurated samples from flow trained on 256-dim modulations on ERA-5 temperature data.
 ![](./figures/era5-flow-samples-256-gif.gif)
+
+## Figure 
+Additional voxel imputation results.
+Partial observation    |  Imputation
+:---------------------:|:---------------------:
+![](./figures/chair2.png)  |  ![](./figures/chair2-imputation-gif.gif)
+
+:---------------------:|:---------------------:
+![](./figures/chair3.png)  |  ![](./figures/chair3-imputation-gif.gif)
+
+:---------------------:|:---------------------:
+![](./figures/chair4.png)  |  ![](./figures/chair4-imputation-gif.gif)
+
+:---------------------:|:---------------------:
+![](./figures/chair5.png)  |  ![](./figures/chair5-imputation-gif.gif)
+
+## Figure 
+Additional novel view synthesis results.
+Occluded view        |  Ground truth       |Inferred             | No prior
+:-------------------:|:-------------------:|:-------------------:|:-------------------:
+![](./figures/car3-masked.png) | ![](./figures/car3-target.gif) | ![](./figures/car3-inferred-gif.gif)| ![](./figures/car3-no-prior-gif.gif)
+:-------------------:|:-------------------:|:-------------------:|:-------------------:
+![](./figures/car4-masked.png) | ![](./figures/car4-target.gif) | ![](./figures/car4-inferred-gif.gif)| ![](./figures/car4-no-prior-gif.gif)
+:-------------------:|:-------------------:|:-------------------:|:-------------------:
+![](./figures/car5-masked.png) | ![](./figures/car5-target.gif) | ![](./figures/car5-inferred-gif.gif)| ![](./figures/car5-no-prior-gif.gif)
+:-------------------:|:-------------------:|:-------------------:|:-------------------:
+![](./figures/car6-masked.png) | ![](./figures/car6-target.gif) | ![](./figures/car6-inferred-gif.gif)| ![](./figures/car6-no-prior-gif.gif)
 
 
