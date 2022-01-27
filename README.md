@@ -51,7 +51,7 @@ Occluded view        |  Ground truth       |Inferred             | No prior
 Uncurated samples from flow trained on 256-dim modulations on ERA-5 temperature data.
 ![](./figures/era5-flow-samples-256-gif.gif)
 
-## Figure 
+## Figure 26
 Additional voxel imputation results.
 Partial observation    |  Imputation
 :---------------------:|:---------------------:
@@ -60,7 +60,7 @@ Partial observation    |  Imputation
 ![](./figures/chair4.png)  |  ![](./figures/chair4-imputation-gif.gif)
 ![](./figures/chair5.png)  |  ![](./figures/chair5-imputation-gif.gif)
 
-## Figure 
+## Figure 27
 Additional novel view synthesis results.
 Occluded view        |  Ground truth       |Inferred             | No prior
 :-------------------:|:-------------------:|:-------------------:|:-------------------:
