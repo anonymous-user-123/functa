@@ -60,7 +60,7 @@ Partial observation    |  Imputation
 ![](./figures/chair4.png)  |  ![](./figures/chair4-imputation-gif.gif)
 ![](./figures/chair5.png)  |  ![](./figures/chair5-imputation-gif.gif)
 
-## Figure 27
+## Figure 28
 Additional novel view synthesis results.
 Occluded view        |  Ground truth       |Inferred             | No prior
 :-------------------:|:-------------------:|:-------------------:|:-------------------:
